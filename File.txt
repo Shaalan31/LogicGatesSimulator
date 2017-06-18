@@ -1,0 +1,10 @@
+3
+7	0 NAND2277 303 
+14	1 NOLABEL  116 303 
+13	2 NOLABEL  502 312 
+Connections
+1  0 
+1  0 
+0  2 
+
+-1
